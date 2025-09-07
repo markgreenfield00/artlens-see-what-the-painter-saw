@@ -4,7 +4,7 @@ Transform famous paintings into contemporary, photorealistic travel photos of th
 
 ## Demo
 - **AI Studio App (public):** https://ai.studio/apps/drive/1mEFf_dscV3mFMIDleVbC-OJQBK3Jve-e
-- **Video demo (≤2 min):** <ADD_YOUTUBE_LINK_HERE>
+- **Video demo (≤2 min):** https://youtu.be/69t-qtNTLs0?si=POQa51RMpSjhRyLy
 
 ## How it works
 We use **Gemini 2.5 Flash Image Preview** via the `google-genai` SDK.  
