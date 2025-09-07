@@ -3,7 +3,7 @@
 Transform famous paintings into contemporary, photorealistic travel photos of the real scenes their artists likely saw.
 
 ## Demo
-- **AI Studio App (public):** https://ai.studio/apps/drive/1mEFf_dscV3mFMIDleVbC-OJQBK3Jve-e
+- **AI Studio App (public):** https://artlens-see-what-the-painter-saw-83027360880.us-west1.run.app/
 - **Video demo (≤2 min):** https://youtu.be/69t-qtNTLs0?si=POQa51RMpSjhRyLy
 
 ## How it works
