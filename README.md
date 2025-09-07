@@ -4,7 +4,7 @@ Transform famous paintings into contemporary, photorealistic travel photos of th
 
 ## Demo
 - **AI Studio App (public):** https://artlens-see-what-the-painter-saw-83027360880.us-west1.run.app/
-- **Video demo (≤2 min):** https://youtu.be/69t-qtNTLs0?si=POQa51RMpSjhRyLy
+- **Video demo (≤2 min):** https://www.youtube.com/watch?v=s6k1CQgbeoI
 
 ## How it works
 We use **Gemini 2.5 Flash Image Preview** via the `google-genai` SDK.  
