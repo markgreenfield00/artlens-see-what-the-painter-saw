@@ -3,7 +3,7 @@
 Transform famous paintings into contemporary, photorealistic travel photos of the real scenes their artists likely saw.
 
 ## Demo
-- **AI Studio App (public):** <ADD_YOUR_APP_URL_HERE>
+- **AI Studio App (public):** https://ai.studio/apps/drive/1mEFf_dscV3mFMIDleVbC-OJQBK3Jve-e
 - **Video demo (≤2 min):** <ADD_YOUTUBE_LINK_HERE>
 
 ## How it works
